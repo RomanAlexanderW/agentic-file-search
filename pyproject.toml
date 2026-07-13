@@ -9,11 +9,11 @@ description = "Explore and understand your filesystem better with AI."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "docling>=2.55.0",
+    "docling>=2.94.0",
     "fastapi>=0.115.0",
     "google-genai>=1.55.0",
     "llama-index-workflows>=2.11.5",
-    "python-dotenv>=1.0.0",
+    "python-dotenv>=1.2.2",
     "reportlab>=4.4.7",
     "rich>=13.0.0",
     "typer>=0.12.5,<0.20.0",
